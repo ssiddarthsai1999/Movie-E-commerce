@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Movie-e-commerce/static/css/main.4ddf46bd.css",
+    "main.js": "/Movie-e-commerce/static/js/main.1704fd8b.js",
+    "index.html": "/Movie-e-commerce/index.html",
+    "main.4ddf46bd.css.map": "/Movie-e-commerce/static/css/main.4ddf46bd.css.map",
+    "main.1704fd8b.js.map": "/Movie-e-commerce/static/js/main.1704fd8b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ddf46bd.css",
+    "static/js/main.1704fd8b.js"
+  ]
+}
